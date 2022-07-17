@@ -1,4 +1,17 @@
-### Hi there 👋
+# Wellcome! 
+
+I'm STEM undergraduate in NRU HSE.
+
+**Programming languages:**
+* C++
+* Python 
+* Lua
+
+**Skills and qualifications:**
+* Linux operating
+* Machine learning
+* Terminal scripts writing
+* Databases administrating
 
 <!--
 **dacetascien/dacetascien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
